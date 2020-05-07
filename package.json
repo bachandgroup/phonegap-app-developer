@@ -55,7 +55,8 @@
     "phonegap-plugin-barcodescanner": "^6.0.8",
     "phonegap-plugin-contentsync": "^1.4.1",
     "phonegap-plugin-mobile-accessibility": "^1.0.5",
-    "phonegap-plugin-push": "^2.1.2"
+    "phonegap-plugin-push": "^2.1.2",
+    "q": "^1.5.1"
   },
   "devDependencies": {
     "app-root-path": "1.0.0",
@@ -69,7 +70,7 @@
     "less": "2.7.1",
     "npm-run": "4.1.0",
     "phonegap": "7.1.1",
-    "request": "2.65.0",
+    "request": "2.68.0",
     "xml2js": "0.4.12"
   },
   "cordova": {
